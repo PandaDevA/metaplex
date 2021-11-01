@@ -18,6 +18,7 @@ yarn-error.log*
 !js/packages/metaplex/src/fonts/fonts.css
 !js/packages/metaplex/src/utils/globals.css
 js/.eslintcache
+js/node_modules
 target
 .env
 .vscode
@@ -31,5 +32,10 @@ hfuzz_workspace
 **/.DS_Store
 .cache
 js/packages/web/.env
+js/packages/cli/node_modules
+js/packages/common/node_modules
+js/packages/fair_launch/node_modules
+js/packages/graphql/node_modules
+js/packages/web/node_modules
 traits
 traits-configuration.json
